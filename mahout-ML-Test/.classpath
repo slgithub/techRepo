@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-core-0.9-job.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-core-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-examples-0.9-job.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-examples-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-integration-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/mahout-math-0.9.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-ant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-examples-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-minicluster-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-test-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queries-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-4.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/PTStemmer_v2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
