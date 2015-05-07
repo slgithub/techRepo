@@ -10,5 +10,7 @@
 	<classpathentry kind="lib" path="lib/hadoop-test-1.2.1.jar"/>
 	<classpathentry kind="lib" path="lib/hadoop-tools-1.2.1.jar"/>
 	<classpathentry kind="lib" path="lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-api-1.0.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
